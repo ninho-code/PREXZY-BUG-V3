@@ -8,13 +8,13 @@ global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '237693132795'  //creator number
+global.ownernumber = '50940134661'  //creator number
 global.ownername = 'joker' //owner name
-global.botname = '𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻3' //name of the bot
+global.botname = 'GOTAR 𝕭𝖀𝕾 𝕻3' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '👑Prexzy\n\nContact: +2347063956321'
+global.author = 'GOTAR KMG'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -51,10 +51,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'ᴅᴏɴᴇ ᴀsᴀᴘ!',
-    prem: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 𝖕𝖗𝖊𝖒𝖎𝖚𝖒 𝖚𝖘𝖊𝖗 𝖔𝖓𝖑𝖞',
+    prem: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 GOTAR 𝖔𝖓𝖑𝖞',
     admin: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 𝖆𝖉𝖒𝖎𝖓 𝖔𝖓𝖑𝖞',
     botAdmin: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖔𝖓𝖑𝖞 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖜𝖍𝖊𝖓 𝖙𝖍𝖊 𝖇𝖔𝖙 𝖎𝖘 𝖆 𝖌𝖗𝖔𝖚𝖕 𝖆𝖉𝖒𝖎𝖓 ',
-    owner: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 𝖔𝖜𝖓𝖊𝖗 𝖔𝖓𝖑𝖞',
+    owner: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖈𝖆𝖓 𝖇𝖊 𝖚𝖘𝖊𝖉 𝖇𝖞 GOTAR 𝖔𝖓𝖑𝖞',
     group: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖎𝖘 𝖔𝖓𝖑𝖞 𝖋𝖔𝖗 𝖌𝖗𝖔𝖚𝖕𝖘',
     private: '𝕿𝖍𝖎𝖘 𝖋𝖊𝖆𝖙𝖚𝖗𝖊 𝖎𝖘 𝖔𝖓𝖑𝖞 𝖋𝖔𝖗 𝖕𝖗𝖎𝖛𝖆𝖙𝖊 𝖈𝖍𝖆𝖙𝖘',
     wait: 'ᴘʀᴏᴄᴇssɪɴɢ ',    
